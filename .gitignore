@@ -1,0 +1,8 @@
+output/
+build/
+.DS_Store
+._*
+0000*
+test.sh
+.idea/
+node_modules

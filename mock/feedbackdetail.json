@@ -1,0 +1,61 @@
+{
+    "talks": [
+        {
+            "content": "测试一下&……*@@（）1233344554测试一下测试一下测试一下测试一下测试一下测试一下",
+            "createTime": 1399519174881,
+            "nickname": "系统",
+            "fid": 6339,
+            "hid": 30,
+            "caseId": 8257,
+            "talkId": 7449
+        },
+        {
+            "content": "官方孤孤单单改变",
+            "createTime": 1399519257794,
+            "nickname": "技术003",
+            "fid": 6339,
+            "hid": 36,
+            "caseId": 8258,
+            "talkId": 7450
+        },
+        {
+            "content": "sadasdas",
+            "createTime": 1400730827143,
+            "nickname": "404072",
+            "fid": 6339,
+            "hid": 0,
+            "caseId": 8258,
+            "talkId": 7455
+        }
+    ],
+    "game": {
+        "2": "神仙道"
+    },
+    "fb": {
+        "content": "啊水水水水飒飒",
+        "time": "2013-02-03 02:03",
+        "createTime": 1399519174856,
+        "status": 1,
+        "uid": 404072,
+        "gid": 2,
+        "description": null,
+        "vipUser": 0,
+        "role": "还是撒",
+        "sid": 2,
+        "email": "lovemd@sogou.com",
+        "updateTime": 0,
+        "phone": "1111",
+        "qq": "1111",
+        "fid": 6339,
+        "fnumber": "N000006241",
+        "ftype": 2,
+        "hid": 36,
+        "caseId": 8258,
+        "msgCount": 3,
+        "attachPic": "http://mini.wan.sogou.com/static/feedback/20140730/16/dsbmjh.jpg,http://mini.wan.sogou.com/static/feedback/20140730/16/tvqihx.jpg",
+        "attachMount": 0,
+        "newMsg": 1,
+        "freviewTime": 1399519175043,
+        "closeTime": 0
+    }
+}

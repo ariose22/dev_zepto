@@ -1,0 +1,188 @@
+{"numFound": 0, "start": 0, "docs": [
+    {
+        "id": "18",
+        "type": "2",
+        "name": "神曲",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d18",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d18",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329110208_303.jpg",
+        "intro": "《神曲》是一款首创页游战斗QTE系统的角色扮演类的网页游戏"
+    },
+    {
+        "id": "17",
+        "type": "2",
+        "name": "名将传说",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d17",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d17",
+        "img": "http://s7.wan.sogou.com/cdn/image/2013/03/29/20130329110147_919.jpg",
+        "intro": "《名将传说》是傲世堂出品的首款三国题材RPG大作"
+    },
+    {
+        "id": "21",
+        "type": "2",
+        "name": "小小海贼王",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d21",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d21",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329110415_879.jpg",
+        "intro": "《小小海贼王》是一款以《海贼王》为题材的同人网游。"
+    },
+    {
+        "id": "27",
+        "type": "2",
+        "name": "醉西游",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d27",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d27",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329110854_326.jpg",
+        "intro": "一款神话题材MMORPG即时战斗网页游戏！"
+    },
+    {
+        "id": "19",
+        "type": "1",
+        "name": "热血海贼王",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d19",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d19",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329110232_949.jpg",
+        "intro": "超人气动漫网页游戏大作，100%纯正的海贼王动漫游戏。"
+    },
+    {
+        "id": "20",
+        "type": "3",
+        "name": "欧冠足球",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d20",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d20",
+        "img": "http://s1.wan.sogou.com/cdn/image/2013/03/29/20130329110304_765.jpg",
+        "intro": "《欧冠足球》以欧洲五大联赛以及欧冠联赛作为故事背景的页游。"
+    },
+    {
+        "id": "8",
+        "type": "1",
+        "name": "凡人修真2",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d8",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d8",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329104534_589.jpg",
+        "intro": "《凡人修真2》为即时战斗类网页游戏的巅峰之作。"
+    },
+    {
+        "id": "12",
+        "type": "1",
+        "name": "梦幻飞仙",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d12",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d12",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329143324_689.jpg",
+        "intro": "《梦幻飞仙》是2013年页游巅峰之作、受大众期待的动漫页游。"
+    },
+    {
+        "id": "23",
+        "type": "1",
+        "name": "神魔仙界",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d23",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d23",
+        "img": "http://s2.wan.sogou.com/cdn/image/2013/03/29/20130329110534_853.jpg",
+        "intro": "一款Q版角色扮演类网页游戏，游戏以修真世界为背景，架构宏伟。"
+    },
+    {
+        "id": "30",
+        "type": "1",
+        "name": "仙落凡尘",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d30",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d30",
+        "img": "http://s3.wan.sogou.com/cdn/image/2013/04/02/20130402190419_996.jpg",
+        "intro": "2012最火爆修仙ARPG网页游戏，绚丽Q版群飞大作。"
+    },
+    {
+        "id": "28",
+        "type": "4",
+        "name": "范特西篮球",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d28",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d28",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329111006_173.jpg",
+        "intro": "全球首款NBA即时策略篮球网页游戏，让您体验最真实的NBA实况。"
+    },
+    {
+        "id": "11",
+        "type": "2",
+        "name": "征战四方",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d11",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d11",
+        "img": "http://s2.wan.sogou.com/cdn/image/2013/03/29/20130329105827_703.jpg",
+        "intro": "《征战四方》傲世堂原班人马打造的三国策略革新力作"
+    },
+    {
+        "id": "16",
+        "type": "1",
+        "name": "大唐真龙贰",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d16",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d16",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329110119_388.jpg",
+        "intro": "《大唐真龙贰》是一款以隋末唐初群雄逐鹿为背景的即时战斗网页游戏。"
+    },
+    {
+        "id": "7",
+        "type": "3",
+        "name": "弹弹堂",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d7",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d7",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329104518_882.jpg",
+        "intro": "《新弹弹堂》是一款无需下载的多人在线Q版休闲竞技游戏。"
+    },
+    {
+        "id": "14",
+        "type": "1",
+        "name": "斗破苍穹2",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d14",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d14",
+        "img": "http://s7.wan.sogou.com/cdn/image/2013/03/29/20130329110059_464.jpg",
+        "intro": "《斗破苍穹2》改编自超人气白金作者天蚕土豆的同名小说的页游"
+    },
+    {
+        "id": "5",
+        "type": "1",
+        "name": "盛世三国",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d5",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d5",
+        "img": "http://s7.wan.sogou.com/cdn/image/2013/03/29/20130329104445_270.jpg",
+        "intro": "《盛世三国》全新三国网页游戏，恢弘战事，一触即发。《盛世三国》全新三国网页游戏，恢弘战事，一触即发。"
+    },
+    {
+        "id": "10",
+        "type": "3",
+        "name": "王者召唤",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d10",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d10",
+        "img": "http://s3.wan.sogou.com/cdn/image/2013/03/29/20130329143307_320.jpg",
+        "intro": "全新玩法,魔幻召唤题材,休闲竞技卡牌游戏!"
+    },
+    {
+        "id": "9",
+        "type": "1",
+        "name": "龙将",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d9",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d9",
+        "img": "http://s4.wan.sogou.com/cdn/image/2013/03/29/20130329104553_957.jpg",
+        "intro": "三国题材的大型横版RPG网页游戏，游戏拥有史诗的剧情及丰富的玩法"
+    },
+    {
+        "id": "25",
+        "type": "1",
+        "name": "凡人修仙传",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d25",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d25",
+        "img": "http://s0.wan.sogou.com/cdn/image/2013/03/29/20130329110621_209.jpg",
+        "intro": "《凡人修仙传》由起点当红网络小说大作《凡人修仙传》改编而成。"
+    },
+    {
+        "id": "2",
+        "type": "1",
+        "name": "神仙道",
+        "playUrl": "http://mini.wan.sogou.com/v1/play.do?gid\u003d2",
+        "gameUrl": "http://mini.wan.sogou.com/static/mini/official.html?gid\u003d2",
+        "img": "http://s2.wan.sogou.com/cdn/image/2013/03/28/20130328172549_467.jpg",
+        "intro": "《神仙道》是一款横版回合制的仙侠题材网游。剧情感人，场景唯美。"
+    }
+], "facet_counts": {
+    "game_type": {
+        "3": "12",
+        "2": "1",
+        "1": "0"
+    }
+}}
